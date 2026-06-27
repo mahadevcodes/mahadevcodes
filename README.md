@@ -14,18 +14,7 @@
 
 ### 💻 Full Stack Developer | ⚡ Automation Engineer | 🤖 AI & ML Enthusiast
 
-I enjoy building scalable web applications, automation frameworks, and AI-powered solutions. I'm passionate about learning modern technologies and solving real-world problems through software.
-
----
-
-# 🚀 About Me
-
-- 🎓 MCA Student
-- 💻 Full Stack Developer
-- 🧪 Automation Engineer (Playwright)
-- 🤖 AI & Machine Learning Enthusiast
-- 🌱 Currently learning Docker & AWS
-- 🚀 Exploring modern web technologies every day
+Passionate about building scalable web applications, automation frameworks, and AI-powered solutions. I enjoy learning modern technologies and solving real-world problems through software.
 
 ---
 
@@ -36,6 +25,18 @@ I enjoy building scalable web applications, automation frameworks, and AI-powere
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,ts,js,python,java,mysql,postgres,mongodb,docker,aws,git,github,vscode"/>
 
 </p>
+
+---
+
+# 🚀 About Me
+
+- 🎓 MCA Student
+- 💻 Full Stack Developer
+- 🧪 Automation Engineer using Playwright
+- 🤖 AI & Machine Learning Enthusiast
+- 🌱 Currently learning Docker & AWS
+- 🚀 Passionate about building modern web applications
+- 📚 Always exploring new technologies and best practices
 
 ---
 
@@ -61,16 +62,6 @@ I enjoy building scalable web applications, automation frameworks, and AI-powere
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahadevcodes&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
@@ -81,30 +72,30 @@ I enjoy building scalable web applications, automation frameworks, and AI-powere
 
 ---
 
-# 🚀 Current Focus
+# 🎯 Current Focus
 
-- ⚛️ React Development
-- 🚀 NestJS Backend Development
-- 🧪 Playwright Test Automation
+- ⚛️ React & Next.js Development
+- 🚀 Backend Development with NestJS & Node.js
+- 🧪 Test Automation using Playwright
 - 🤖 AI & Machine Learning
-- 🐳 Docker
-- ☁️ AWS Cloud
+- 🐳 Docker & Containerization
+- ☁️ AWS Cloud Fundamentals
 
 ---
 
-# 🌟 Featured Projects
+# 🚀 Featured Projects
 
-🚀 Interactive 3D Portfolio
+🚧 **Projects Coming Soon**
 
-🤖 CKD Prediction using Machine Learning
+I'm currently building and polishing the following projects before publishing them:
 
-🏫 Tuition Management System
+- 🌐 Interactive 3D Portfolio
+- 🤖 CKD Prediction using Machine Learning
+- 🏫 Tuition Management System
+- 🧪 Playwright Automation Framework
+- 💻 React + NestJS Full Stack Applications
 
-🧪 Playwright Automation Framework
-
-💻 React + NestJS Applications
-
-*(More projects coming soon...)*
+Stay tuned for more exciting projects!
 
 ---
 
@@ -112,14 +103,14 @@ I enjoy building scalable web applications, automation frameworks, and AI-powere
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/mahadev-vengurlekar">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/mahadev-vengurlekar" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:your-email@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
 </a>
 
 </p>
@@ -127,9 +118,8 @@ I enjoy building scalable web applications, automation frameworks, and AI-powere
 ---
 
 <p align="center">
-
-⭐ If you like my work, consider following my GitHub profile!
-
+⭐ <b>Thanks for visiting my profile!</b><br>
+If you like my work, consider following my GitHub profile.
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,100:06B6D4"/>
